@@ -74905,5 +74905,12 @@
     "author": "Ahmed Adel",
     "description": "Customize Obsidian and supported community plugin interfaces with profiles and scoped CSS. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ahmedadel200066/Obsidian-Customization-Suite."
+  },
+  {
+    "id": "duo-optimize",
+    "name": "Duo Optimize",
+    "author": "GINJILISM",
+    "description": "Fixes for Obsidian Mobile on foldable phones like iPhone Duo: tap protection for the sidebar swipe, a layout guard for phone/tablet mode mix-ups, a hideable tab bar with floating buttons, and per-device settings.",
+    "repo": "GINJILISM/duo-optimize"
   }
 ]
